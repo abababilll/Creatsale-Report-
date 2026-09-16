@@ -1,0 +1,9 @@
+{
+  "name": "creatsale-app",
+  "version": "1.0.0",
+  "description": "Creatsale Sales Dashboard with Login",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
